@@ -1,3 +1,13 @@
+#Build it
+go to cd /path/to/inhibit-bridge-works-swayidle
+```
+go build -o inhibit-bridge ./...
+```
+### Download release
+run
+```
+./inhibit-bridge
+```
 # inhibit-bridge
 
 This is a little utility to bridge between dbus org.freedesktop.ScreenSaver
